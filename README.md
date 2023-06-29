@@ -1,6 +1,6 @@
 <h1 align="center">Este es Alex</h1>
 
-<h3 align="center">Un friki 👾 apasionado por el software 🤓 <br/> buscando explorar el mágico mundo del 💫Internet y la Tecnología✨</h3>
+<h3 align="center">Un friki 👾 apasionado por el software 🤓 <br/> Buscando explorar el mágico mundo del 💫Internet y la Tecnología✨</h3>
 
 - 🌱 Cursando un bootcamp de **.Net y SQL**
 
