@@ -1,10 +1,8 @@
 <h1 align="center">Este es Alex</h1>
 
-## hola
-
 <h3 align="center">Un friki 👾 apasionado por el software 🤓 <br/> buscando explorar el mágico mundo del 💫Internet y la Tecnología✨</h3>
 
-- 🌱 Aprendiendo **.Net and SQL**
+- 🌱 Cursando un bootcamp de **.Net y SQL**
 
 - 📫 Contáctame **alejandro.roa.mateo@gmail.com**
 
