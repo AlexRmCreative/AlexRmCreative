@@ -1,4 +1,4 @@
-<h1 align="center">Hola! Soy Alex</h1>
+<h1 align="center">Este es Alex</h1>
 <h3 align="center">Un friki 👾 apasionado por el software 🤓 buscando explorar el mágico mundo del 💫Internet y la Tecnología✨</h3>
 
 - 🌱 I’m currently learning **.Net and SQL**
