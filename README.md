@@ -2,7 +2,7 @@
 
 <h3 align="center">Un friki 👾 apasionado por el software 🤓 <br/> Buscando explorar el mágico mundo del 💫Internet y la Tecnología✨</h3>
 
-- 🌱 Cursando un bootcamp de **.Net y SQL**
+- 👨‍💻 Desarollador .Net con SQL y Angular!
 
 - 📫 Contáctame **alejandro.roa.mateo@gmail.com**
 
